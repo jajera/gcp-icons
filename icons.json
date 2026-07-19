@@ -1,0 +1,4162 @@
+[
+  {
+    "path": "icons/category/ai-machine-learning/AIMachineLearning-512-color.svg",
+    "tags": [
+      "ai",
+      "ai-machine-learning",
+      "and",
+      "category",
+      "gcp",
+      "google-cloud",
+      "learning",
+      "machine"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "AI and Machine Learning category icon for Google Cloud products.",
+    "fullname": "AI and Machine Learning",
+    "name": "ai-machine-learning"
+  },
+  {
+    "path": "icons/category/agents/Agents-512-color.svg",
+    "tags": [
+      "agents",
+      "ai",
+      "applications",
+      "category",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "AI Applications & Agents category icon for Google Cloud products.",
+    "fullname": "AI Applications & Agents",
+    "name": "agents"
+  },
+  {
+    "path": "icons/category/business-intelligence/BusinessIntelligence-512-color.svg",
+    "tags": [
+      "business",
+      "business-intelligence",
+      "category",
+      "gcp",
+      "google-cloud",
+      "intelligence"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Business Intelligence category icon for Google Cloud products.",
+    "fullname": "Business Intelligence",
+    "name": "business-intelligence"
+  },
+  {
+    "path": "icons/category/collaboration/Collaboration-512-color.svg",
+    "tags": [
+      "category",
+      "collaboration",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Collaboration category icon for Google Cloud products.",
+    "fullname": "Collaboration",
+    "name": "collaboration"
+  },
+  {
+    "path": "icons/category/compute/Compute-512-color.svg",
+    "tags": [
+      "category",
+      "compute",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Compute category icon for Google Cloud products.",
+    "fullname": "Compute",
+    "name": "compute"
+  },
+  {
+    "path": "icons/category/containers/Containers-512-color.svg",
+    "tags": [
+      "category",
+      "containers",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Containers category icon for Google Cloud products.",
+    "fullname": "Containers",
+    "name": "containers"
+  },
+  {
+    "path": "icons/category/data-analytics/DataAnalytics-512-color.svg",
+    "tags": [
+      "analytics",
+      "category",
+      "data",
+      "data-analytics",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Data Analytics category icon for Google Cloud products.",
+    "fullname": "Data Analytics",
+    "name": "data-analytics"
+  },
+  {
+    "path": "icons/category/databases/Databases-512-color.svg",
+    "tags": [
+      "category",
+      "databases",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Databases category icon for Google Cloud products.",
+    "fullname": "Databases",
+    "name": "databases"
+  },
+  {
+    "path": "icons/category/developer-tools/Developer_Tools-512-color.svg",
+    "tags": [
+      "category",
+      "developer",
+      "developer-tools",
+      "gcp",
+      "google-cloud",
+      "tools"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Developer Tools category icon for Google Cloud products.",
+    "fullname": "Developer Tools",
+    "name": "developer-tools"
+  },
+  {
+    "path": "icons/category/devops/DevOps-512-color.svg",
+    "tags": [
+      "category",
+      "devops",
+      "gcp",
+      "google-cloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "DevOps category icon for Google Cloud products.",
+    "fullname": "DevOps",
+    "name": "devops"
+  },
+  {
+    "path": "icons/category/hybrid-and-multicloud/HybridMulticloud-512-color.svg",
+    "tags": [
+      "and",
+      "category",
+      "gcp",
+      "google-cloud",
+      "hybrid",
+      "hybrid-and-multicloud",
+      "multicloud"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Hybrid and Multicloud category icon for Google Cloud products.",
+    "fullname": "Hybrid and Multicloud",
+    "name": "hybrid-and-multicloud"
+  },
+  {
+    "path": "icons/category/integration-services/IntegrationServices-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "integration",
+      "integration-services",
+      "services"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Integration Services category icon for Google Cloud products.",
+    "fullname": "Integration Services",
+    "name": "integration-services"
+  },
+  {
+    "path": "icons/category/management-tools/ManagementTools-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "management",
+      "management-tools",
+      "tools"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Management Tools category icon for Google Cloud products.",
+    "fullname": "Management Tools",
+    "name": "management-tools"
+  },
+  {
+    "path": "icons/category/maps-and-geospatial/MapsGeospatial-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "geospatial",
+      "google-cloud",
+      "maps",
+      "maps-and-geospatial"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Maps & Geospatial category icon for Google Cloud products.",
+    "fullname": "Maps & Geospatial",
+    "name": "maps-and-geospatial"
+  },
+  {
+    "path": "icons/category/marketplace/Marketplace-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "marketplace"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Marketplace category icon for Google Cloud products.",
+    "fullname": "Marketplace",
+    "name": "marketplace"
+  },
+  {
+    "path": "icons/category/media-services/MediaServices-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "media",
+      "media-services",
+      "services"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Media Services category icon for Google Cloud products.",
+    "fullname": "Media Services",
+    "name": "media-services"
+  },
+  {
+    "path": "icons/category/migration/Migration-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "migration"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Migration category icon for Google Cloud products.",
+    "fullname": "Migration",
+    "name": "migration"
+  },
+  {
+    "path": "icons/category/mixed-reality/MixedReality-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "mixed",
+      "mixed-reality",
+      "reality"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Mixed Reality category icon for Google Cloud products.",
+    "fullname": "Mixed Reality",
+    "name": "mixed-reality"
+  },
+  {
+    "path": "icons/category/networking/Networking-512-color-rgb.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "networking"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Networking category icon for Google Cloud products.",
+    "fullname": "Networking",
+    "name": "networking"
+  },
+  {
+    "path": "icons/category/observability/Observability-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "observability"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Observability category icon for Google Cloud products.",
+    "fullname": "Observability",
+    "name": "observability"
+  },
+  {
+    "path": "icons/category/operations/Operations-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "operations"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Operations category icon for Google Cloud products.",
+    "fullname": "Operations",
+    "name": "operations"
+  },
+  {
+    "path": "icons/category/security-identity/SecurityIdentity-512-color.svg",
+    "tags": [
+      "and",
+      "category",
+      "gcp",
+      "google-cloud",
+      "identity",
+      "security",
+      "security-identity"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Security and Identity category icon for Google Cloud products.",
+    "fullname": "Security and Identity",
+    "name": "security-identity"
+  },
+  {
+    "path": "icons/category/serverless-computing/ServerlessComputing-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "serverless",
+      "serverless-computing"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Serverless category icon for Google Cloud products.",
+    "fullname": "Serverless",
+    "name": "serverless-computing"
+  },
+  {
+    "path": "icons/category/storage/Storage-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "storage"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Storage category icon for Google Cloud products.",
+    "fullname": "Storage",
+    "name": "storage"
+  },
+  {
+    "path": "icons/category/web-and-mobile/WebMobile-512-color.svg",
+    "tags": [
+      "and",
+      "category",
+      "gcp",
+      "google-cloud",
+      "mobile",
+      "web",
+      "web-and-mobile"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Web and Mobile category icon for Google Cloud products.",
+    "fullname": "Web and Mobile",
+    "name": "web-and-mobile"
+  },
+  {
+    "path": "icons/category/web3/Web3-512-color.svg",
+    "tags": [
+      "category",
+      "gcp",
+      "google-cloud",
+      "web3"
+    ],
+    "category": "category",
+    "color": "#4285F4",
+    "description": "Web3 category icon for Google Cloud products.",
+    "fullname": "Web3",
+    "name": "web3"
+  },
+  {
+    "path": "icons/product/ai-hypercomputer/AIHypercomputer-512-color.svg",
+    "tags": [
+      "ai",
+      "ai-hypercomputer",
+      "gcp",
+      "google-cloud",
+      "hypercomputer",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "AI Hypercomputer is a Google Cloud core product.",
+    "fullname": "AI Hypercomputer",
+    "name": "ai-hypercomputer"
+  },
+  {
+    "path": "icons/product/alloydb/AlloyDB-512-color.svg",
+    "tags": [
+      "alloydb",
+      "gcp",
+      "google-cloud",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "AlloyDB is a Google Cloud core product.",
+    "fullname": "AlloyDB",
+    "name": "alloydb"
+  },
+  {
+    "path": "icons/product/anthos/Anthos-512-color.svg",
+    "tags": [
+      "anthos",
+      "gcp",
+      "google-cloud",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Anthos is a Google Cloud core product.",
+    "fullname": "Anthos",
+    "name": "anthos"
+  },
+  {
+    "path": "icons/product/apigee/Apigee-512-color-rgb.svg",
+    "tags": [
+      "apigee",
+      "gcp",
+      "google-cloud",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Apigee is a Google Cloud core product.",
+    "fullname": "Apigee",
+    "name": "apigee"
+  },
+  {
+    "path": "icons/product/bigquery/BigQuery-512-color.svg",
+    "tags": [
+      "bigquery",
+      "bq",
+      "gcp",
+      "google-cloud",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "BigQuery is a Google Cloud core product.",
+    "fullname": "BigQuery",
+    "name": "bigquery"
+  },
+  {
+    "path": "icons/product/cloud-run/CloudRun-512-color-rgb.svg",
+    "tags": [
+      "cloud",
+      "cloud-run",
+      "gcp",
+      "google-cloud",
+      "product",
+      "run"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Cloud Run is a Google Cloud core product.",
+    "fullname": "Cloud Run",
+    "name": "cloud-run"
+  },
+  {
+    "path": "icons/product/cloud-sql/CloudSQL-512-color.svg",
+    "tags": [
+      "cloud",
+      "cloud-sql",
+      "gcp",
+      "google-cloud",
+      "product",
+      "sql"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Cloud SQL is a Google Cloud core product.",
+    "fullname": "Cloud SQL",
+    "name": "cloud-sql"
+  },
+  {
+    "path": "icons/product/cloud-storage/Cloud_Storage-512-color.svg",
+    "tags": [
+      "cloud",
+      "cloud-storage",
+      "gcp",
+      "gcs",
+      "google-cloud",
+      "product",
+      "storage"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Cloud Storage is a Google Cloud core product.",
+    "fullname": "Cloud Storage",
+    "name": "cloud-storage"
+  },
+  {
+    "path": "icons/product/compute-engine/ComputeEngine-512-color-rgb.svg",
+    "tags": [
+      "compute",
+      "compute-engine",
+      "engine",
+      "gce",
+      "gcp",
+      "google-cloud",
+      "product",
+      "virtual-machine",
+      "vm"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Compute Engine is a Google Cloud core product.",
+    "fullname": "Compute Engine",
+    "name": "compute-engine"
+  },
+  {
+    "path": "icons/product/gke/GKE-512-color.svg",
+    "tags": [
+      "gcp",
+      "gke",
+      "google-cloud",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "GKE is a Google Cloud core product.",
+    "fullname": "GKE",
+    "name": "gke"
+  },
+  {
+    "path": "icons/product/distributed-cloud/DistributedCloud-512-color.svg",
+    "tags": [
+      "cloud",
+      "distributed",
+      "distributed-cloud",
+      "gcp",
+      "google",
+      "google-cloud",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Google Distributed Cloud is a Google Cloud core product.",
+    "fullname": "Google Distributed Cloud",
+    "name": "distributed-cloud"
+  },
+  {
+    "path": "icons/product/security-operations/SecOps-512-color-rgb.svg",
+    "tags": [
+      "gcp",
+      "google",
+      "google-cloud",
+      "operations",
+      "product",
+      "security",
+      "security-operations"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Google Security Operations is a Google Cloud core product.",
+    "fullname": "Google Security Operations",
+    "name": "security-operations"
+  },
+  {
+    "path": "icons/product/threat-intelligence/ThreatIntelligence-512-color.svg",
+    "tags": [
+      "gcp",
+      "google",
+      "google-cloud",
+      "intelligence",
+      "product",
+      "threat",
+      "threat-intelligence"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Google Threat Intelligence is a Google Cloud core product.",
+    "fullname": "Google Threat Intelligence",
+    "name": "threat-intelligence"
+  },
+  {
+    "path": "icons/product/hyperdisk/Hyperdisk-512-color.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "hyperdisk",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Hyperdisk is a Google Cloud core product.",
+    "fullname": "Hyperdisk",
+    "name": "hyperdisk"
+  },
+  {
+    "path": "icons/product/looker/Looker-512-color.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "looker",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Looker is a Google Cloud core product.",
+    "fullname": "Looker",
+    "name": "looker"
+  },
+  {
+    "path": "icons/product/mandiant/Mandiant-512-color.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "mandiant",
+      "product"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Mandiant is a Google Cloud core product.",
+    "fullname": "Mandiant",
+    "name": "mandiant"
+  },
+  {
+    "path": "icons/product/security-command-center/SecurityCommandCenter-512-color.svg",
+    "tags": [
+      "center",
+      "command",
+      "gcp",
+      "google-cloud",
+      "product",
+      "security",
+      "security-command-center"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Security Command Center is a Google Cloud core product.",
+    "fullname": "Security Command Center",
+    "name": "security-command-center"
+  },
+  {
+    "path": "icons/product/cloud-spanner/CloudSpanner-512-color.svg",
+    "tags": [
+      "cloud-spanner",
+      "gcp",
+      "google-cloud",
+      "product",
+      "spanner"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Spanner is a Google Cloud core product.",
+    "fullname": "Spanner",
+    "name": "cloud-spanner"
+  },
+  {
+    "path": "icons/product/vertex-ai/VertexAI-512-color.svg",
+    "tags": [
+      "ai",
+      "gcp",
+      "google-cloud",
+      "product",
+      "vertex",
+      "vertex-ai"
+    ],
+    "category": "product",
+    "color": "#4285F4",
+    "description": "Vertex AI is a Google Cloud core product.",
+    "fullname": "Vertex AI",
+    "name": "vertex-ai"
+  },
+  {
+    "path": "icons/legacy/access-context-manager/access_context_manager.svg",
+    "tags": [
+      "access",
+      "access-context-manager",
+      "context",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "manager"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Access Context Manager legacy Google Cloud console icon.",
+    "fullname": "Access Context Manager",
+    "name": "access-context-manager"
+  },
+  {
+    "path": "icons/legacy/administration/administration.svg",
+    "tags": [
+      "administration",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Administration legacy Google Cloud console icon.",
+    "fullname": "Administration",
+    "name": "administration"
+  },
+  {
+    "path": "icons/legacy/advanced-agent-modeling/advanced_agent_modeling.svg",
+    "tags": [
+      "advanced",
+      "advanced-agent-modeling",
+      "agent",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "modeling"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Advanced Agent Modeling legacy Google Cloud console icon.",
+    "fullname": "Advanced Agent Modeling",
+    "name": "advanced-agent-modeling"
+  },
+  {
+    "path": "icons/legacy/advanced-solutions-lab/advanced_solutions_lab.svg",
+    "tags": [
+      "advanced",
+      "advanced-solutions-lab",
+      "gcp",
+      "google-cloud",
+      "lab",
+      "legacy",
+      "solutions"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Advanced Solutions Lab legacy Google Cloud console icon.",
+    "fullname": "Advanced Solutions Lab",
+    "name": "advanced-solutions-lab"
+  },
+  {
+    "path": "icons/legacy/agent-assist/agent_assist.svg",
+    "tags": [
+      "agent",
+      "agent-assist",
+      "assist",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Agent Assist legacy Google Cloud console icon.",
+    "fullname": "Agent Assist",
+    "name": "agent-assist"
+  },
+  {
+    "path": "icons/legacy/ai-hub/ai_hub.svg",
+    "tags": [
+      "ai",
+      "ai-hub",
+      "gcp",
+      "google-cloud",
+      "hub",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AI Hub legacy Google Cloud console icon.",
+    "fullname": "AI Hub",
+    "name": "ai-hub"
+  },
+  {
+    "path": "icons/legacy/ai-platform/ai_platform.svg",
+    "tags": [
+      "ai",
+      "ai-platform",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "platform"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AI Platform legacy Google Cloud console icon.",
+    "fullname": "AI Platform",
+    "name": "ai-platform"
+  },
+  {
+    "path": "icons/legacy/ai-platform-unified/ai_platform_unified.svg",
+    "tags": [
+      "ai",
+      "ai-platform-unified",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "platform",
+      "unified"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AI Platform Unified legacy Google Cloud console icon.",
+    "fullname": "AI Platform Unified",
+    "name": "ai-platform-unified"
+  },
+  {
+    "path": "icons/legacy/analytics-hub/analytics_hub.svg",
+    "tags": [
+      "analytics",
+      "analytics-hub",
+      "gcp",
+      "google-cloud",
+      "hub",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Analytics Hub legacy Google Cloud console icon.",
+    "fullname": "Analytics Hub",
+    "name": "analytics-hub"
+  },
+  {
+    "path": "icons/legacy/anthos/anthos.svg",
+    "tags": [
+      "anthos",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Anthos legacy Google Cloud console icon.",
+    "fullname": "Anthos",
+    "name": "anthos"
+  },
+  {
+    "path": "icons/legacy/anthos-config-management/anthos_config_management.svg",
+    "tags": [
+      "anthos",
+      "anthos-config-management",
+      "config",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "management"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Anthos Config Management legacy Google Cloud console icon.",
+    "fullname": "Anthos Config Management",
+    "name": "anthos-config-management"
+  },
+  {
+    "path": "icons/legacy/anthos-service-mesh/anthos_service_mesh.svg",
+    "tags": [
+      "anthos",
+      "anthos-service-mesh",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "mesh",
+      "service"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Anthos Service Mesh legacy Google Cloud console icon.",
+    "fullname": "Anthos Service Mesh",
+    "name": "anthos-service-mesh"
+  },
+  {
+    "path": "icons/legacy/api/api.svg",
+    "tags": [
+      "api",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "API legacy Google Cloud console icon.",
+    "fullname": "API",
+    "name": "api"
+  },
+  {
+    "path": "icons/legacy/api-analytics/api_analytics.svg",
+    "tags": [
+      "analytics",
+      "api",
+      "api-analytics",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "API Analytics legacy Google Cloud console icon.",
+    "fullname": "API Analytics",
+    "name": "api-analytics"
+  },
+  {
+    "path": "icons/legacy/api-monetization/api_monetization.svg",
+    "tags": [
+      "api",
+      "api-monetization",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "monetization"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "API Monetization legacy Google Cloud console icon.",
+    "fullname": "API Monetization",
+    "name": "api-monetization"
+  },
+  {
+    "path": "icons/legacy/apigee-api-platform/apigee_api_platform.svg",
+    "tags": [
+      "api",
+      "apigee",
+      "apigee-api-platform",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "platform"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Apigee API Platform legacy Google Cloud console icon.",
+    "fullname": "Apigee API Platform",
+    "name": "apigee-api-platform"
+  },
+  {
+    "path": "icons/legacy/apigee-sense/apigee_sense.svg",
+    "tags": [
+      "apigee",
+      "apigee-sense",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "sense"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Apigee Sense legacy Google Cloud console icon.",
+    "fullname": "Apigee Sense",
+    "name": "apigee-sense"
+  },
+  {
+    "path": "icons/legacy/app-engine/app_engine.svg",
+    "tags": [
+      "app",
+      "app-engine",
+      "engine",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "App Engine legacy Google Cloud console icon.",
+    "fullname": "App Engine",
+    "name": "app-engine"
+  },
+  {
+    "path": "icons/legacy/artifact-registry/artifact_registry.svg",
+    "tags": [
+      "artifact",
+      "artifact-registry",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "registry"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Artifact Registry legacy Google Cloud console icon.",
+    "fullname": "Artifact Registry",
+    "name": "artifact-registry"
+  },
+  {
+    "path": "icons/legacy/asset-inventory/asset_inventory.svg",
+    "tags": [
+      "asset",
+      "asset-inventory",
+      "gcp",
+      "google-cloud",
+      "inventory",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Asset Inventory legacy Google Cloud console icon.",
+    "fullname": "Asset Inventory",
+    "name": "asset-inventory"
+  },
+  {
+    "path": "icons/legacy/assured-workloads/assured_workloads.svg",
+    "tags": [
+      "assured",
+      "assured-workloads",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "workloads"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Assured Workloads legacy Google Cloud console icon.",
+    "fullname": "Assured Workloads",
+    "name": "assured-workloads"
+  },
+  {
+    "path": "icons/legacy/automl/automl.svg",
+    "tags": [
+      "automl",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AutoML legacy Google Cloud console icon.",
+    "fullname": "AutoML",
+    "name": "automl"
+  },
+  {
+    "path": "icons/legacy/automl-natural-language/automl_natural_language.svg",
+    "tags": [
+      "automl",
+      "automl-natural-language",
+      "gcp",
+      "google-cloud",
+      "language",
+      "legacy",
+      "natural"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AutoML Natural Language legacy Google Cloud console icon.",
+    "fullname": "AutoML Natural Language",
+    "name": "automl-natural-language"
+  },
+  {
+    "path": "icons/legacy/automl-tables/automl_tables.svg",
+    "tags": [
+      "automl",
+      "automl-tables",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "tables"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AutoML Tables legacy Google Cloud console icon.",
+    "fullname": "AutoML Tables",
+    "name": "automl-tables"
+  },
+  {
+    "path": "icons/legacy/automl-translation/automl_translation.svg",
+    "tags": [
+      "automl",
+      "automl-translation",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "translation"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AutoML Translation legacy Google Cloud console icon.",
+    "fullname": "AutoML Translation",
+    "name": "automl-translation"
+  },
+  {
+    "path": "icons/legacy/automl-video-intelligence/automl_video_intelligence.svg",
+    "tags": [
+      "automl",
+      "automl-video-intelligence",
+      "gcp",
+      "google-cloud",
+      "intelligence",
+      "legacy",
+      "video"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AutoML Video Intelligence legacy Google Cloud console icon.",
+    "fullname": "AutoML Video Intelligence",
+    "name": "automl-video-intelligence"
+  },
+  {
+    "path": "icons/legacy/automl-vision/automl_vision.svg",
+    "tags": [
+      "automl",
+      "automl-vision",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "vision"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "AutoML Vision legacy Google Cloud console icon.",
+    "fullname": "AutoML Vision",
+    "name": "automl-vision"
+  },
+  {
+    "path": "icons/legacy/bare-metal-solutions/bare_metal_solutions.svg",
+    "tags": [
+      "bare",
+      "bare-metal-solutions",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "metal",
+      "solutions"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Bare Metal Solutions legacy Google Cloud console icon.",
+    "fullname": "Bare Metal Solutions",
+    "name": "bare-metal-solutions"
+  },
+  {
+    "path": "icons/legacy/batch/batch.svg",
+    "tags": [
+      "batch",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Batch legacy Google Cloud console icon.",
+    "fullname": "Batch",
+    "name": "batch"
+  },
+  {
+    "path": "icons/legacy/beyondcorp/beyondcorp.svg",
+    "tags": [
+      "beyondcorp",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "BeyondCorp legacy Google Cloud console icon.",
+    "fullname": "BeyondCorp",
+    "name": "beyondcorp"
+  },
+  {
+    "path": "icons/legacy/bigquery/bigquery.svg",
+    "tags": [
+      "bigquery",
+      "bq",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "BigQuery legacy Google Cloud console icon.",
+    "fullname": "BigQuery",
+    "name": "bigquery"
+  },
+  {
+    "path": "icons/legacy/bigtable/bigtable.svg",
+    "tags": [
+      "bigtable",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Bigtable legacy Google Cloud console icon.",
+    "fullname": "Bigtable",
+    "name": "bigtable"
+  },
+  {
+    "path": "icons/legacy/billing/billing.svg",
+    "tags": [
+      "billing",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Billing legacy Google Cloud console icon.",
+    "fullname": "Billing",
+    "name": "billing"
+  },
+  {
+    "path": "icons/legacy/binary-authorization/binary_authorization.svg",
+    "tags": [
+      "authorization",
+      "binary",
+      "binary-authorization",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Binary Authorization legacy Google Cloud console icon.",
+    "fullname": "Binary Authorization",
+    "name": "binary-authorization"
+  },
+  {
+    "path": "icons/legacy/catalog/catalog.svg",
+    "tags": [
+      "catalog",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Catalog legacy Google Cloud console icon.",
+    "fullname": "Catalog",
+    "name": "catalog"
+  },
+  {
+    "path": "icons/legacy/certificate-authority-service/certificate_authority_service.svg",
+    "tags": [
+      "authority",
+      "certificate",
+      "certificate-authority-service",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "service"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Certificate Authority Service legacy Google Cloud console icon.",
+    "fullname": "Certificate Authority Service",
+    "name": "certificate-authority-service"
+  },
+  {
+    "path": "icons/legacy/certificate-manager/certificate_manager.svg",
+    "tags": [
+      "certificate",
+      "certificate-manager",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "manager"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Certificate Manager legacy Google Cloud console icon.",
+    "fullname": "Certificate Manager",
+    "name": "certificate-manager"
+  },
+  {
+    "path": "icons/legacy/cloud-api-gateway/cloud_api_gateway.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-api-gateway",
+      "gateway",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud API Gateway legacy Google Cloud console icon.",
+    "fullname": "Cloud API Gateway",
+    "name": "cloud-api-gateway"
+  },
+  {
+    "path": "icons/legacy/cloud-apis/cloud_apis.svg",
+    "tags": [
+      "apis",
+      "cloud",
+      "cloud-apis",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud APIs legacy Google Cloud console icon.",
+    "fullname": "Cloud APIs",
+    "name": "cloud-apis"
+  },
+  {
+    "path": "icons/legacy/cloud-armor/cloud_armor.svg",
+    "tags": [
+      "armor",
+      "cloud",
+      "cloud-armor",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Armor legacy Google Cloud console icon.",
+    "fullname": "Cloud Armor",
+    "name": "cloud-armor"
+  },
+  {
+    "path": "icons/legacy/cloud-asset-inventory/cloud_asset_inventory.svg",
+    "tags": [
+      "asset",
+      "cloud",
+      "cloud-asset-inventory",
+      "gcp",
+      "google-cloud",
+      "inventory",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Asset Inventory legacy Google Cloud console icon.",
+    "fullname": "Cloud Asset Inventory",
+    "name": "cloud-asset-inventory"
+  },
+  {
+    "path": "icons/legacy/cloud-audit-logs/cloud_audit_logs.svg",
+    "tags": [
+      "audit",
+      "cloud",
+      "cloud-audit-logs",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "logs"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Audit Logs legacy Google Cloud console icon.",
+    "fullname": "Cloud Audit Logs",
+    "name": "cloud-audit-logs"
+  },
+  {
+    "path": "icons/legacy/cloud-build/cloud_build.svg",
+    "tags": [
+      "build",
+      "cloud",
+      "cloud-build",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Build legacy Google Cloud console icon.",
+    "fullname": "Cloud Build",
+    "name": "cloud-build"
+  },
+  {
+    "path": "icons/legacy/cloud-cdn/cloud_cdn.svg",
+    "tags": [
+      "cdn",
+      "cloud",
+      "cloud-cdn",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud CDN legacy Google Cloud console icon.",
+    "fullname": "Cloud CDN",
+    "name": "cloud-cdn"
+  },
+  {
+    "path": "icons/legacy/cloud-code/cloud_code.svg",
+    "tags": [
+      "cloud",
+      "cloud-code",
+      "code",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Code legacy Google Cloud console icon.",
+    "fullname": "Cloud Code",
+    "name": "cloud-code"
+  },
+  {
+    "path": "icons/legacy/cloud-composer/cloud_composer.svg",
+    "tags": [
+      "cloud",
+      "cloud-composer",
+      "composer",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Composer legacy Google Cloud console icon.",
+    "fullname": "Cloud Composer",
+    "name": "cloud-composer"
+  },
+  {
+    "path": "icons/legacy/cloud-data-fusion/cloud_data_fusion.svg",
+    "tags": [
+      "cloud",
+      "cloud-data-fusion",
+      "data",
+      "fusion",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Data Fusion legacy Google Cloud console icon.",
+    "fullname": "Cloud Data Fusion",
+    "name": "cloud-data-fusion"
+  },
+  {
+    "path": "icons/legacy/cloud-deploy/cloud_deploy.svg",
+    "tags": [
+      "cloud",
+      "cloud-deploy",
+      "deploy",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Deploy legacy Google Cloud console icon.",
+    "fullname": "Cloud Deploy",
+    "name": "cloud-deploy"
+  },
+  {
+    "path": "icons/legacy/cloud-deployment-manager/cloud_deployment_manager.svg",
+    "tags": [
+      "cloud",
+      "cloud-deployment-manager",
+      "deployment",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "manager"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Deployment Manager legacy Google Cloud console icon.",
+    "fullname": "Cloud Deployment Manager",
+    "name": "cloud-deployment-manager"
+  },
+  {
+    "path": "icons/legacy/cloud-dns/cloud_dns.svg",
+    "tags": [
+      "cloud",
+      "cloud-dns",
+      "dns",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud DNS legacy Google Cloud console icon.",
+    "fullname": "Cloud DNS",
+    "name": "cloud-dns"
+  },
+  {
+    "path": "icons/legacy/cloud-domains/cloud_domains.svg",
+    "tags": [
+      "cloud",
+      "cloud-domains",
+      "domains",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Domains legacy Google Cloud console icon.",
+    "fullname": "Cloud Domains",
+    "name": "cloud-domains"
+  },
+  {
+    "path": "icons/legacy/cloud-ekm/cloud_ekm.svg",
+    "tags": [
+      "cloud",
+      "cloud-ekm",
+      "ekm",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud EKM legacy Google Cloud console icon.",
+    "fullname": "Cloud EKM",
+    "name": "cloud-ekm"
+  },
+  {
+    "path": "icons/legacy/cloud-endpoints/cloud_endpoints.svg",
+    "tags": [
+      "cloud",
+      "cloud-endpoints",
+      "endpoints",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Endpoints legacy Google Cloud console icon.",
+    "fullname": "Cloud Endpoints",
+    "name": "cloud-endpoints"
+  },
+  {
+    "path": "icons/legacy/cloud-external-ip-addresses/cloud_external_ip_addresses.svg",
+    "tags": [
+      "addresses",
+      "cloud",
+      "cloud-external-ip-addresses",
+      "external",
+      "gcp",
+      "google-cloud",
+      "ip",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud External IP Addresses legacy Google Cloud console icon.",
+    "fullname": "Cloud External IP Addresses",
+    "name": "cloud-external-ip-addresses"
+  },
+  {
+    "path": "icons/legacy/cloud-firewall-rules/cloud_firewall_rules.svg",
+    "tags": [
+      "cloud",
+      "cloud-firewall-rules",
+      "firewall",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "rules"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Firewall Rules legacy Google Cloud console icon.",
+    "fullname": "Cloud Firewall Rules",
+    "name": "cloud-firewall-rules"
+  },
+  {
+    "path": "icons/legacy/cloud-for-marketing/cloud_for_marketing.svg",
+    "tags": [
+      "cloud",
+      "cloud-for-marketing",
+      "for",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "marketing"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud for Marketing legacy Google Cloud console icon.",
+    "fullname": "Cloud for Marketing",
+    "name": "cloud-for-marketing"
+  },
+  {
+    "path": "icons/legacy/cloud-functions/cloud_functions.svg",
+    "tags": [
+      "cloud",
+      "cloud-functions",
+      "functions",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Functions legacy Google Cloud console icon.",
+    "fullname": "Cloud Functions",
+    "name": "cloud-functions"
+  },
+  {
+    "path": "icons/legacy/cloud-generic/cloud_generic.svg",
+    "tags": [
+      "cloud",
+      "cloud-generic",
+      "gcp",
+      "generic",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Generic legacy Google Cloud console icon.",
+    "fullname": "Cloud Generic",
+    "name": "cloud-generic"
+  },
+  {
+    "path": "icons/legacy/cloud-gpu/cloud_gpu.svg",
+    "tags": [
+      "cloud",
+      "cloud-gpu",
+      "gcp",
+      "google-cloud",
+      "gpu",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud GPU legacy Google Cloud console icon.",
+    "fullname": "Cloud GPU",
+    "name": "cloud-gpu"
+  },
+  {
+    "path": "icons/legacy/cloud-healthcare-api/cloud_healthcare_api.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-healthcare-api",
+      "gcp",
+      "google-cloud",
+      "healthcare",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Healthcare API legacy Google Cloud console icon.",
+    "fullname": "Cloud Healthcare API",
+    "name": "cloud-healthcare-api"
+  },
+  {
+    "path": "icons/legacy/cloud-healthcare-marketplace/cloud_healthcare_marketplace.svg",
+    "tags": [
+      "cloud",
+      "cloud-healthcare-marketplace",
+      "gcp",
+      "google-cloud",
+      "healthcare",
+      "legacy",
+      "marketplace"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Healthcare Marketplace legacy Google Cloud console icon.",
+    "fullname": "Cloud Healthcare Marketplace",
+    "name": "cloud-healthcare-marketplace"
+  },
+  {
+    "path": "icons/legacy/cloud-hsm/cloud_hsm.svg",
+    "tags": [
+      "cloud",
+      "cloud-hsm",
+      "gcp",
+      "google-cloud",
+      "hsm",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud HSM legacy Google Cloud console icon.",
+    "fullname": "Cloud HSM",
+    "name": "cloud-hsm"
+  },
+  {
+    "path": "icons/legacy/cloud-ids/cloud_ids.svg",
+    "tags": [
+      "cloud",
+      "cloud-ids",
+      "gcp",
+      "google-cloud",
+      "ids",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud IDS legacy Google Cloud console icon.",
+    "fullname": "Cloud IDS",
+    "name": "cloud-ids"
+  },
+  {
+    "path": "icons/legacy/cloud-inference-api/cloud_inference_api.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-inference-api",
+      "gcp",
+      "google-cloud",
+      "inference",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Inference API legacy Google Cloud console icon.",
+    "fullname": "Cloud Inference API",
+    "name": "cloud-inference-api"
+  },
+  {
+    "path": "icons/legacy/cloud-interconnect/cloud_interconnect.svg",
+    "tags": [
+      "cloud",
+      "cloud-interconnect",
+      "gcp",
+      "google-cloud",
+      "interconnect",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Interconnect legacy Google Cloud console icon.",
+    "fullname": "Cloud Interconnect",
+    "name": "cloud-interconnect"
+  },
+  {
+    "path": "icons/legacy/cloud-jobs-api/cloud_jobs_api.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-jobs-api",
+      "gcp",
+      "google-cloud",
+      "jobs",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Jobs API legacy Google Cloud console icon.",
+    "fullname": "Cloud Jobs API",
+    "name": "cloud-jobs-api"
+  },
+  {
+    "path": "icons/legacy/cloud-load-balancing/cloud_load_balancing.svg",
+    "tags": [
+      "balancing",
+      "cloud",
+      "cloud-load-balancing",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "load"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Load Balancing legacy Google Cloud console icon.",
+    "fullname": "Cloud Load Balancing",
+    "name": "cloud-load-balancing"
+  },
+  {
+    "path": "icons/legacy/cloud-logging/cloud_logging.svg",
+    "tags": [
+      "cloud",
+      "cloud-logging",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "logging"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Logging legacy Google Cloud console icon.",
+    "fullname": "Cloud Logging",
+    "name": "cloud-logging"
+  },
+  {
+    "path": "icons/legacy/cloud-media-edge/cloud_media_edge.svg",
+    "tags": [
+      "cloud",
+      "cloud-media-edge",
+      "edge",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "media"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Media Edge legacy Google Cloud console icon.",
+    "fullname": "Cloud Media Edge",
+    "name": "cloud-media-edge"
+  },
+  {
+    "path": "icons/legacy/cloud-monitoring/cloud_monitoring.svg",
+    "tags": [
+      "cloud",
+      "cloud-monitoring",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "monitoring"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Monitoring legacy Google Cloud console icon.",
+    "fullname": "Cloud Monitoring",
+    "name": "cloud-monitoring"
+  },
+  {
+    "path": "icons/legacy/cloud-nat/cloud_nat.svg",
+    "tags": [
+      "cloud",
+      "cloud-nat",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "nat"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud NAT legacy Google Cloud console icon.",
+    "fullname": "Cloud NAT",
+    "name": "cloud-nat"
+  },
+  {
+    "path": "icons/legacy/cloud-natural-language-api/cloud_natural_language_api.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-natural-language-api",
+      "gcp",
+      "google-cloud",
+      "language",
+      "legacy",
+      "natural"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Natural Language API legacy Google Cloud console icon.",
+    "fullname": "Cloud Natural Language API",
+    "name": "cloud-natural-language-api"
+  },
+  {
+    "path": "icons/legacy/cloud-network/cloud_network.svg",
+    "tags": [
+      "cloud",
+      "cloud-network",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Network legacy Google Cloud console icon.",
+    "fullname": "Cloud Network",
+    "name": "cloud-network"
+  },
+  {
+    "path": "icons/legacy/cloud-ops/cloud_ops.svg",
+    "tags": [
+      "cloud",
+      "cloud-ops",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "ops"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Ops legacy Google Cloud console icon.",
+    "fullname": "Cloud Ops",
+    "name": "cloud-ops"
+  },
+  {
+    "path": "icons/legacy/cloud-optimization-ai/cloud_optimization_ai.svg",
+    "tags": [
+      "ai",
+      "cloud",
+      "cloud-optimization-ai",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "optimization"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Optimization AI legacy Google Cloud console icon.",
+    "fullname": "Cloud Optimization AI",
+    "name": "cloud-optimization-ai"
+  },
+  {
+    "path": "icons/legacy/cloud-optimization-ai-fleet-routing-api/cloud_optimization_ai_-_fleet_routing_api.svg",
+    "tags": [
+      "ai",
+      "api",
+      "cloud",
+      "cloud-optimization-ai-fleet-routing-api",
+      "fleet",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "optimization",
+      "routing"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Optimization AI - Fleet Routing API legacy Google Cloud console icon.",
+    "fullname": "Cloud Optimization AI - Fleet Routing API",
+    "name": "cloud-optimization-ai-fleet-routing-api"
+  },
+  {
+    "path": "icons/legacy/cloud-router/cloud_router.svg",
+    "tags": [
+      "cloud",
+      "cloud-router",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "router"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Router legacy Google Cloud console icon.",
+    "fullname": "Cloud Router",
+    "name": "cloud-router"
+  },
+  {
+    "path": "icons/legacy/cloud-routes/cloud_routes.svg",
+    "tags": [
+      "cloud",
+      "cloud-routes",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "routes"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Routes legacy Google Cloud console icon.",
+    "fullname": "Cloud Routes",
+    "name": "cloud-routes"
+  },
+  {
+    "path": "icons/legacy/cloud-run/cloud_run.svg",
+    "tags": [
+      "cloud",
+      "cloud-run",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "run"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Run legacy Google Cloud console icon.",
+    "fullname": "Cloud Run",
+    "name": "cloud-run"
+  },
+  {
+    "path": "icons/legacy/cloud-run-for-anthos/cloud_run_for_anthos.svg",
+    "tags": [
+      "anthos",
+      "cloud",
+      "cloud-run-for-anthos",
+      "for",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "run"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Run for Anthos legacy Google Cloud console icon.",
+    "fullname": "Cloud Run for Anthos",
+    "name": "cloud-run-for-anthos"
+  },
+  {
+    "path": "icons/legacy/cloud-scheduler/cloud_scheduler.svg",
+    "tags": [
+      "cloud",
+      "cloud-scheduler",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "scheduler"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Scheduler legacy Google Cloud console icon.",
+    "fullname": "Cloud Scheduler",
+    "name": "cloud-scheduler"
+  },
+  {
+    "path": "icons/legacy/cloud-security-scanner/cloud_security_scanner.svg",
+    "tags": [
+      "cloud",
+      "cloud-security-scanner",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "scanner",
+      "security"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Security Scanner legacy Google Cloud console icon.",
+    "fullname": "Cloud Security Scanner",
+    "name": "cloud-security-scanner"
+  },
+  {
+    "path": "icons/legacy/cloud-shell/cloud_shell.svg",
+    "tags": [
+      "cloud",
+      "cloud-shell",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "shell"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Shell legacy Google Cloud console icon.",
+    "fullname": "Cloud Shell",
+    "name": "cloud-shell"
+  },
+  {
+    "path": "icons/legacy/cloud-spanner/cloud_spanner.svg",
+    "tags": [
+      "cloud",
+      "cloud-spanner",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "spanner"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Spanner legacy Google Cloud console icon.",
+    "fullname": "Cloud Spanner",
+    "name": "cloud-spanner"
+  },
+  {
+    "path": "icons/legacy/cloud-sql/cloud_sql.svg",
+    "tags": [
+      "cloud",
+      "cloud-sql",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "sql"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud SQL legacy Google Cloud console icon.",
+    "fullname": "Cloud SQL",
+    "name": "cloud-sql"
+  },
+  {
+    "path": "icons/legacy/cloud-storage/cloud_storage.svg",
+    "tags": [
+      "cloud",
+      "cloud-storage",
+      "gcp",
+      "gcs",
+      "google-cloud",
+      "legacy",
+      "storage"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Storage legacy Google Cloud console icon.",
+    "fullname": "Cloud Storage",
+    "name": "cloud-storage"
+  },
+  {
+    "path": "icons/legacy/cloud-tasks/cloud_tasks.svg",
+    "tags": [
+      "cloud",
+      "cloud-tasks",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "tasks"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Tasks legacy Google Cloud console icon.",
+    "fullname": "Cloud Tasks",
+    "name": "cloud-tasks"
+  },
+  {
+    "path": "icons/legacy/cloud-test-lab/cloud_test_lab.svg",
+    "tags": [
+      "cloud",
+      "cloud-test-lab",
+      "gcp",
+      "google-cloud",
+      "lab",
+      "legacy",
+      "test"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Test Lab legacy Google Cloud console icon.",
+    "fullname": "Cloud Test Lab",
+    "name": "cloud-test-lab"
+  },
+  {
+    "path": "icons/legacy/tools-for-powershell/tools_for_powershell.svg",
+    "tags": [
+      "cloud",
+      "for",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "powershell",
+      "tools",
+      "tools-for-powershell"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Tools for PowerShell legacy Google Cloud console icon.",
+    "fullname": "Cloud Tools for PowerShell",
+    "name": "tools-for-powershell"
+  },
+  {
+    "path": "icons/legacy/cloud-tpu/cloud_tpu.svg",
+    "tags": [
+      "cloud",
+      "cloud-tpu",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "tpu"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud TPU legacy Google Cloud console icon.",
+    "fullname": "Cloud TPU",
+    "name": "cloud-tpu"
+  },
+  {
+    "path": "icons/legacy/cloud-translation-api/cloud_translation_api.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-translation-api",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "translation"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Translation API legacy Google Cloud console icon.",
+    "fullname": "Cloud Translation API",
+    "name": "cloud-translation-api"
+  },
+  {
+    "path": "icons/legacy/cloud-vision-api/cloud_vision_api.svg",
+    "tags": [
+      "api",
+      "cloud",
+      "cloud-vision-api",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "vision"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud Vision API legacy Google Cloud console icon.",
+    "fullname": "Cloud Vision API",
+    "name": "cloud-vision-api"
+  },
+  {
+    "path": "icons/legacy/cloud-vpn/cloud_vpn.svg",
+    "tags": [
+      "cloud",
+      "cloud-vpn",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "vpn"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Cloud VPN legacy Google Cloud console icon.",
+    "fullname": "Cloud VPN",
+    "name": "cloud-vpn"
+  },
+  {
+    "path": "icons/legacy/compute-engine/compute_engine.svg",
+    "tags": [
+      "compute",
+      "compute-engine",
+      "engine",
+      "gce",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "virtual-machine",
+      "vm"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Compute Engine legacy Google Cloud console icon.",
+    "fullname": "Compute Engine",
+    "name": "compute-engine"
+  },
+  {
+    "path": "icons/legacy/configuration-management/configuration_management.svg",
+    "tags": [
+      "configuration",
+      "configuration-management",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "management"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Configuration Management legacy Google Cloud console icon.",
+    "fullname": "Configuration Management",
+    "name": "configuration-management"
+  },
+  {
+    "path": "icons/legacy/connectivity-test/connectivity_test.svg",
+    "tags": [
+      "connectivity",
+      "connectivity-test",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "test"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Connectivity Test legacy Google Cloud console icon.",
+    "fullname": "Connectivity Test",
+    "name": "connectivity-test"
+  },
+  {
+    "path": "icons/legacy/connectors/connectors.svg",
+    "tags": [
+      "connectors",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Connectors legacy Google Cloud console icon.",
+    "fullname": "Connectors",
+    "name": "connectors"
+  },
+  {
+    "path": "icons/legacy/contact-center-ai/contact_center_ai.svg",
+    "tags": [
+      "ai",
+      "center",
+      "contact",
+      "contact-center-ai",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Contact Center AI legacy Google Cloud console icon.",
+    "fullname": "Contact Center AI",
+    "name": "contact-center-ai"
+  },
+  {
+    "path": "icons/legacy/container-registry/container_registry.svg",
+    "tags": [
+      "container",
+      "container-registry",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "registry"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Container Registry legacy Google Cloud console icon.",
+    "fullname": "Container Registry",
+    "name": "container-registry"
+  },
+  {
+    "path": "icons/legacy/container-optimized-os/container_optimized_os.svg",
+    "tags": [
+      "container",
+      "container-optimized-os",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "optimized",
+      "os"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Container-Optimized OS legacy Google Cloud console icon.",
+    "fullname": "Container-Optimized OS",
+    "name": "container-optimized-os"
+  },
+  {
+    "path": "icons/legacy/data-catalog/data_catalog.svg",
+    "tags": [
+      "catalog",
+      "data",
+      "data-catalog",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data Catalog legacy Google Cloud console icon.",
+    "fullname": "Data Catalog",
+    "name": "data-catalog"
+  },
+  {
+    "path": "icons/legacy/data-labeling/data_labeling.svg",
+    "tags": [
+      "data",
+      "data-labeling",
+      "gcp",
+      "google-cloud",
+      "labeling",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data Labeling legacy Google Cloud console icon.",
+    "fullname": "Data Labeling",
+    "name": "data-labeling"
+  },
+  {
+    "path": "icons/legacy/data-layers/data_layers.svg",
+    "tags": [
+      "data",
+      "data-layers",
+      "gcp",
+      "google-cloud",
+      "layers",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data Layers legacy Google Cloud console icon.",
+    "fullname": "Data Layers",
+    "name": "data-layers"
+  },
+  {
+    "path": "icons/legacy/data-loss-prevention-api/data_loss_prevention_api.svg",
+    "tags": [
+      "api",
+      "data",
+      "data-loss-prevention-api",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "loss",
+      "prevention"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data Loss Prevention API legacy Google Cloud console icon.",
+    "fullname": "Data Loss Prevention API",
+    "name": "data-loss-prevention-api"
+  },
+  {
+    "path": "icons/legacy/data-qna/data_qna.svg",
+    "tags": [
+      "data",
+      "data-qna",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "qna"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data QnA legacy Google Cloud console icon.",
+    "fullname": "Data QnA",
+    "name": "data-qna"
+  },
+  {
+    "path": "icons/legacy/data-studio/data_studio.svg",
+    "tags": [
+      "data",
+      "data-studio",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "studio"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data Studio legacy Google Cloud console icon.",
+    "fullname": "Data Studio",
+    "name": "data-studio"
+  },
+  {
+    "path": "icons/legacy/data-transfer/data_transfer.svg",
+    "tags": [
+      "data",
+      "data-transfer",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "transfer"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Data Transfer legacy Google Cloud console icon.",
+    "fullname": "Data Transfer",
+    "name": "data-transfer"
+  },
+  {
+    "path": "icons/legacy/database-migration-service/database_migration_service.svg",
+    "tags": [
+      "database",
+      "database-migration-service",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "migration",
+      "service"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Database Migration Service legacy Google Cloud console icon.",
+    "fullname": "Database Migration Service",
+    "name": "database-migration-service"
+  },
+  {
+    "path": "icons/legacy/dataflow/dataflow.svg",
+    "tags": [
+      "dataflow",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dataflow legacy Google Cloud console icon.",
+    "fullname": "Dataflow",
+    "name": "dataflow"
+  },
+  {
+    "path": "icons/legacy/datalab/datalab.svg",
+    "tags": [
+      "datalab",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Datalab legacy Google Cloud console icon.",
+    "fullname": "Datalab",
+    "name": "datalab"
+  },
+  {
+    "path": "icons/legacy/dataplex/dataplex.svg",
+    "tags": [
+      "dataplex",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dataplex legacy Google Cloud console icon.",
+    "fullname": "Dataplex",
+    "name": "dataplex"
+  },
+  {
+    "path": "icons/legacy/datapol/datapol.svg",
+    "tags": [
+      "datapol",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Datapol legacy Google Cloud console icon.",
+    "fullname": "Datapol",
+    "name": "datapol"
+  },
+  {
+    "path": "icons/legacy/dataprep/dataprep.svg",
+    "tags": [
+      "dataprep",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dataprep legacy Google Cloud console icon.",
+    "fullname": "Dataprep",
+    "name": "dataprep"
+  },
+  {
+    "path": "icons/legacy/dataproc/dataproc.svg",
+    "tags": [
+      "dataproc",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dataproc legacy Google Cloud console icon.",
+    "fullname": "Dataproc",
+    "name": "dataproc"
+  },
+  {
+    "path": "icons/legacy/dataproc-metastore/dataproc_metastore.svg",
+    "tags": [
+      "dataproc",
+      "dataproc-metastore",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "metastore"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dataproc Metastore legacy Google Cloud console icon.",
+    "fullname": "Dataproc Metastore",
+    "name": "dataproc-metastore"
+  },
+  {
+    "path": "icons/legacy/datashare/datashare.svg",
+    "tags": [
+      "datashare",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Datashare legacy Google Cloud console icon.",
+    "fullname": "Datashare",
+    "name": "datashare"
+  },
+  {
+    "path": "icons/legacy/datastore/datastore.svg",
+    "tags": [
+      "datastore",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Datastore legacy Google Cloud console icon.",
+    "fullname": "Datastore",
+    "name": "datastore"
+  },
+  {
+    "path": "icons/legacy/datastream/datastream.svg",
+    "tags": [
+      "datastream",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Datastream legacy Google Cloud console icon.",
+    "fullname": "Datastream",
+    "name": "datastream"
+  },
+  {
+    "path": "icons/legacy/debugger/debugger.svg",
+    "tags": [
+      "debugger",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Debugger legacy Google Cloud console icon.",
+    "fullname": "Debugger",
+    "name": "debugger"
+  },
+  {
+    "path": "icons/legacy/developer-portal/developer_portal.svg",
+    "tags": [
+      "developer",
+      "developer-portal",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "portal"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Developer Portal legacy Google Cloud console icon.",
+    "fullname": "Developer Portal",
+    "name": "developer-portal"
+  },
+  {
+    "path": "icons/legacy/dialogflow/dialogflow.svg",
+    "tags": [
+      "dialogflow",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dialogflow legacy Google Cloud console icon.",
+    "fullname": "Dialogflow",
+    "name": "dialogflow"
+  },
+  {
+    "path": "icons/legacy/dialogflow-cx/dialogflow_cx.svg",
+    "tags": [
+      "cx",
+      "dialogflow",
+      "dialogflow-cx",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dialogflow CX legacy Google Cloud console icon.",
+    "fullname": "Dialogflow CX",
+    "name": "dialogflow-cx"
+  },
+  {
+    "path": "icons/legacy/dialogflow-insights/dialogflow_insights.svg",
+    "tags": [
+      "dialogflow",
+      "dialogflow-insights",
+      "gcp",
+      "google-cloud",
+      "insights",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Dialogflow Insights legacy Google Cloud console icon.",
+    "fullname": "Dialogflow Insights",
+    "name": "dialogflow-insights"
+  },
+  {
+    "path": "icons/legacy/document-ai/document_ai.svg",
+    "tags": [
+      "ai",
+      "document",
+      "document-ai",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Document AI legacy Google Cloud console icon.",
+    "fullname": "Document AI",
+    "name": "document-ai"
+  },
+  {
+    "path": "icons/legacy/early-access-center/early_access_center.svg",
+    "tags": [
+      "access",
+      "center",
+      "early",
+      "early-access-center",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Early Access Center legacy Google Cloud console icon.",
+    "fullname": "Early Access Center",
+    "name": "early-access-center"
+  },
+  {
+    "path": "icons/legacy/error-reporting/error_reporting.svg",
+    "tags": [
+      "error",
+      "error-reporting",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "reporting"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Error Reporting legacy Google Cloud console icon.",
+    "fullname": "Error Reporting",
+    "name": "error-reporting"
+  },
+  {
+    "path": "icons/legacy/eventarc/eventarc.svg",
+    "tags": [
+      "eventarc",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Eventarc legacy Google Cloud console icon.",
+    "fullname": "Eventarc",
+    "name": "eventarc"
+  },
+  {
+    "path": "icons/legacy/filestore/filestore.svg",
+    "tags": [
+      "filestore",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Filestore legacy Google Cloud console icon.",
+    "fullname": "Filestore",
+    "name": "filestore"
+  },
+  {
+    "path": "icons/legacy/financial-services-marketplace/financial_services_marketplace.svg",
+    "tags": [
+      "financial",
+      "financial-services-marketplace",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "marketplace",
+      "services"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Financial Services Marketplace legacy Google Cloud console icon.",
+    "fullname": "Financial Services Marketplace",
+    "name": "financial-services-marketplace"
+  },
+  {
+    "path": "icons/legacy/firestore/firestore.svg",
+    "tags": [
+      "firestore",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Firestore legacy Google Cloud console icon.",
+    "fullname": "Firestore",
+    "name": "firestore"
+  },
+  {
+    "path": "icons/legacy/fleet-engine/fleet_engine.svg",
+    "tags": [
+      "engine",
+      "fleet",
+      "fleet-engine",
+      "gcp",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Fleet Engine legacy Google Cloud console icon.",
+    "fullname": "Fleet Engine",
+    "name": "fleet-engine"
+  },
+  {
+    "path": "icons/legacy/free-trial/free_trial.svg",
+    "tags": [
+      "free",
+      "free-trial",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "trial"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Free Trial legacy Google Cloud console icon.",
+    "fullname": "Free Trial",
+    "name": "free-trial"
+  },
+  {
+    "path": "icons/legacy/game-servers/game_servers.svg",
+    "tags": [
+      "game",
+      "game-servers",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "servers"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Game Servers legacy Google Cloud console icon.",
+    "fullname": "Game Servers",
+    "name": "game-servers"
+  },
+  {
+    "path": "icons/legacy/gce-systems-management/gce_systems_management.svg",
+    "tags": [
+      "gce",
+      "gce-systems-management",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "management",
+      "systems"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "GCE Systems Management legacy Google Cloud console icon.",
+    "fullname": "GCE Systems Management",
+    "name": "gce-systems-management"
+  },
+  {
+    "path": "icons/legacy/genomics/genomics.svg",
+    "tags": [
+      "gcp",
+      "genomics",
+      "google-cloud",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Genomics legacy Google Cloud console icon.",
+    "fullname": "Genomics",
+    "name": "genomics"
+  },
+  {
+    "path": "icons/legacy/gke-on-prem/gke_on-prem.svg",
+    "tags": [
+      "gcp",
+      "gke",
+      "gke-on-prem",
+      "google-cloud",
+      "legacy",
+      "on",
+      "prem"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "GKE On-Prem legacy Google Cloud console icon.",
+    "fullname": "GKE On-Prem",
+    "name": "gke-on-prem"
+  },
+  {
+    "path": "icons/legacy/google-cloud-marketplace/google_cloud_marketplace.svg",
+    "tags": [
+      "cloud",
+      "gcp",
+      "google",
+      "google-cloud",
+      "google-cloud-marketplace",
+      "legacy",
+      "marketplace"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Google Cloud Marketplace legacy Google Cloud console icon.",
+    "fullname": "Google Cloud Marketplace",
+    "name": "google-cloud-marketplace"
+  },
+  {
+    "path": "icons/legacy/google-kubernetes-engine/google_kubernetes_engine.svg",
+    "tags": [
+      "engine",
+      "gcp",
+      "gke",
+      "google",
+      "google-cloud",
+      "google-kubernetes-engine",
+      "kubernetes",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Google Kubernetes Engine legacy Google Cloud console icon.",
+    "fullname": "Google Kubernetes Engine",
+    "name": "google-kubernetes-engine"
+  },
+  {
+    "path": "icons/legacy/google-maps-platform/google_maps_platform.svg",
+    "tags": [
+      "gcp",
+      "google",
+      "google-cloud",
+      "google-maps-platform",
+      "legacy",
+      "maps",
+      "platform"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Google Maps Platform legacy Google Cloud console icon.",
+    "fullname": "Google Maps Platform",
+    "name": "google-maps-platform"
+  },
+  {
+    "path": "icons/legacy/healthcare-nlp-api/healthcare_nlp_api.svg",
+    "tags": [
+      "api",
+      "gcp",
+      "google-cloud",
+      "healthcare",
+      "healthcare-nlp-api",
+      "legacy",
+      "nlp"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Healthcare NLP API legacy Google Cloud console icon.",
+    "fullname": "Healthcare NLP API",
+    "name": "healthcare-nlp-api"
+  },
+  {
+    "path": "icons/legacy/home/home.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "home",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Home legacy Google Cloud console icon.",
+    "fullname": "Home",
+    "name": "home"
+  },
+  {
+    "path": "icons/legacy/identity-and-access-management/identity_and_access_management.svg",
+    "tags": [
+      "access",
+      "and",
+      "gcp",
+      "google-cloud",
+      "iam",
+      "identity",
+      "identity-and-access-management",
+      "legacy",
+      "management"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Identity and Access Management legacy Google Cloud console icon.",
+    "fullname": "Identity and Access Management",
+    "name": "identity-and-access-management"
+  },
+  {
+    "path": "icons/legacy/identity-platform/identity_platform.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "identity",
+      "identity-platform",
+      "legacy",
+      "platform"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Identity Platform legacy Google Cloud console icon.",
+    "fullname": "Identity Platform",
+    "name": "identity-platform"
+  },
+  {
+    "path": "icons/legacy/identity-aware-proxy/identity-aware_proxy.svg",
+    "tags": [
+      "aware",
+      "gcp",
+      "google-cloud",
+      "identity",
+      "identity-aware-proxy",
+      "legacy",
+      "proxy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Identity-Aware Proxy legacy Google Cloud console icon.",
+    "fullname": "Identity-Aware Proxy",
+    "name": "identity-aware-proxy"
+  },
+  {
+    "path": "icons/legacy/iot-core/iot_core.svg",
+    "tags": [
+      "core",
+      "gcp",
+      "google-cloud",
+      "iot",
+      "iot-core",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "IoT Core legacy Google Cloud console icon.",
+    "fullname": "IoT Core",
+    "name": "iot-core"
+  },
+  {
+    "path": "icons/legacy/iot-edge/iot_edge.svg",
+    "tags": [
+      "edge",
+      "gcp",
+      "google-cloud",
+      "iot",
+      "iot-edge",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "IoT Edge legacy Google Cloud console icon.",
+    "fullname": "IoT Edge",
+    "name": "iot-edge"
+  },
+  {
+    "path": "icons/legacy/key-access-justifications/key_access_justifications.svg",
+    "tags": [
+      "access",
+      "gcp",
+      "google-cloud",
+      "justifications",
+      "key",
+      "key-access-justifications",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Key Access Justifications legacy Google Cloud console icon.",
+    "fullname": "Key Access Justifications",
+    "name": "key-access-justifications"
+  },
+  {
+    "path": "icons/legacy/key-management-service/key_management_service.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "key",
+      "key-management-service",
+      "legacy",
+      "management",
+      "service"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Key Management Service legacy Google Cloud console icon.",
+    "fullname": "Key Management Service",
+    "name": "key-management-service"
+  },
+  {
+    "path": "icons/legacy/kuberun/kuberun.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "kuberun",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "KubeRun legacy Google Cloud console icon.",
+    "fullname": "KubeRun",
+    "name": "kuberun"
+  },
+  {
+    "path": "icons/legacy/launcher/launcher.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "launcher",
+      "legacy"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Launcher legacy Google Cloud console icon.",
+    "fullname": "Launcher",
+    "name": "launcher"
+  },
+  {
+    "path": "icons/legacy/local-ssd/local_ssd.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "local",
+      "local-ssd",
+      "ssd"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Local SSD legacy Google Cloud console icon.",
+    "fullname": "Local SSD",
+    "name": "local-ssd"
+  },
+  {
+    "path": "icons/legacy/looker/looker.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "looker"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Looker legacy Google Cloud console icon.",
+    "fullname": "Looker",
+    "name": "looker"
+  },
+  {
+    "path": "icons/legacy/managed-service-for-microsoft-active-directory/managed_service_for_microsoft_active_directory.svg",
+    "tags": [
+      "active",
+      "directory",
+      "for",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "managed",
+      "managed-service-for-microsoft-active-directory",
+      "microsoft",
+      "service"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Managed Service for Microsoft Active Directory legacy Google Cloud console icon.",
+    "fullname": "Managed Service for Microsoft Active Directory",
+    "name": "managed-service-for-microsoft-active-directory"
+  },
+  {
+    "path": "icons/legacy/media-translation-api/media_translation_api.svg",
+    "tags": [
+      "api",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "media",
+      "media-translation-api",
+      "translation"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Media Translation API legacy Google Cloud console icon.",
+    "fullname": "Media Translation API",
+    "name": "media-translation-api"
+  },
+  {
+    "path": "icons/legacy/memorystore/memorystore.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "memorystore"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Memorystore legacy Google Cloud console icon.",
+    "fullname": "Memorystore",
+    "name": "memorystore"
+  },
+  {
+    "path": "icons/legacy/migrate-for-anthos/migrate_for_anthos.svg",
+    "tags": [
+      "anthos",
+      "for",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "migrate",
+      "migrate-for-anthos"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Migrate for Anthos legacy Google Cloud console icon.",
+    "fullname": "Migrate for Anthos",
+    "name": "migrate-for-anthos"
+  },
+  {
+    "path": "icons/legacy/migrate-for-compute-engine/migrate_for_compute_engine.svg",
+    "tags": [
+      "compute",
+      "engine",
+      "for",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "migrate",
+      "migrate-for-compute-engine"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Migrate for Compute Engine legacy Google Cloud console icon.",
+    "fullname": "Migrate for Compute Engine",
+    "name": "migrate-for-compute-engine"
+  },
+  {
+    "path": "icons/legacy/my-cloud/my_cloud.svg",
+    "tags": [
+      "cloud",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "my",
+      "my-cloud"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "My Cloud legacy Google Cloud console icon.",
+    "fullname": "My Cloud",
+    "name": "my-cloud"
+  },
+  {
+    "path": "icons/legacy/network-connectivity-center/network_connectivity_center.svg",
+    "tags": [
+      "center",
+      "connectivity",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network",
+      "network-connectivity-center"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Network Connectivity Center legacy Google Cloud console icon.",
+    "fullname": "Network Connectivity Center",
+    "name": "network-connectivity-center"
+  },
+  {
+    "path": "icons/legacy/network-intelligence-center/network_intelligence_center.svg",
+    "tags": [
+      "center",
+      "gcp",
+      "google-cloud",
+      "intelligence",
+      "legacy",
+      "network",
+      "network-intelligence-center"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Network Intelligence Center legacy Google Cloud console icon.",
+    "fullname": "Network Intelligence Center",
+    "name": "network-intelligence-center"
+  },
+  {
+    "path": "icons/legacy/network-security/network_security.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network",
+      "network-security",
+      "security"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Network Security legacy Google Cloud console icon.",
+    "fullname": "Network Security",
+    "name": "network-security"
+  },
+  {
+    "path": "icons/legacy/network-tiers/network_tiers.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network",
+      "network-tiers",
+      "tiers"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Network Tiers legacy Google Cloud console icon.",
+    "fullname": "Network Tiers",
+    "name": "network-tiers"
+  },
+  {
+    "path": "icons/legacy/network-topology/network_topology.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network",
+      "network-topology",
+      "topology"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Network Topology legacy Google Cloud console icon.",
+    "fullname": "Network Topology",
+    "name": "network-topology"
+  },
+  {
+    "path": "icons/legacy/onboarding/onboarding.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "onboarding"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Onboarding legacy Google Cloud console icon.",
+    "fullname": "Onboarding",
+    "name": "onboarding"
+  },
+  {
+    "path": "icons/legacy/os-configuration-management/os_configuration_management.svg",
+    "tags": [
+      "configuration",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "management",
+      "os",
+      "os-configuration-management"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "OS Configuration Management legacy Google Cloud console icon.",
+    "fullname": "OS Configuration Management",
+    "name": "os-configuration-management"
+  },
+  {
+    "path": "icons/legacy/os-inventory-management/os_inventory_management.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "inventory",
+      "legacy",
+      "management",
+      "os",
+      "os-inventory-management"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "OS Inventory Management legacy Google Cloud console icon.",
+    "fullname": "OS Inventory Management",
+    "name": "os-inventory-management"
+  },
+  {
+    "path": "icons/legacy/os-patch-management/os_patch_management.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "management",
+      "os",
+      "os-patch-management",
+      "patch"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "OS Patch Management legacy Google Cloud console icon.",
+    "fullname": "OS Patch Management",
+    "name": "os-patch-management"
+  },
+  {
+    "path": "icons/legacy/partner-interconnect/partner_interconnect.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "interconnect",
+      "legacy",
+      "partner",
+      "partner-interconnect"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Partner Interconnect legacy Google Cloud console icon.",
+    "fullname": "Partner Interconnect",
+    "name": "partner-interconnect"
+  },
+  {
+    "path": "icons/legacy/partner-portal/partner_portal.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "partner",
+      "partner-portal",
+      "portal"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Partner Portal legacy Google Cloud console icon.",
+    "fullname": "Partner Portal",
+    "name": "partner-portal"
+  },
+  {
+    "path": "icons/legacy/performance-dashboard/performance_dashboard.svg",
+    "tags": [
+      "dashboard",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "performance",
+      "performance-dashboard"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Performance Dashboard legacy Google Cloud console icon.",
+    "fullname": "Performance Dashboard",
+    "name": "performance-dashboard"
+  },
+  {
+    "path": "icons/legacy/permissions/permissions.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "permissions"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Permissions legacy Google Cloud console icon.",
+    "fullname": "Permissions",
+    "name": "permissions"
+  },
+  {
+    "path": "icons/legacy/persistent-disk/persistent_disk.svg",
+    "tags": [
+      "disk",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "persistent",
+      "persistent-disk"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Persistent Disk legacy Google Cloud console icon.",
+    "fullname": "Persistent Disk",
+    "name": "persistent-disk"
+  },
+  {
+    "path": "icons/legacy/phishing-protection/phishing_protection.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "phishing",
+      "phishing-protection",
+      "protection"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Phishing Protection legacy Google Cloud console icon.",
+    "fullname": "Phishing Protection",
+    "name": "phishing-protection"
+  },
+  {
+    "path": "icons/legacy/policy-analyzer/policy_analyzer.svg",
+    "tags": [
+      "analyzer",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "policy",
+      "policy-analyzer"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Policy Analyzer legacy Google Cloud console icon.",
+    "fullname": "Policy Analyzer",
+    "name": "policy-analyzer"
+  },
+  {
+    "path": "icons/legacy/premium-network-tier/premium_network_tier.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network",
+      "premium",
+      "premium-network-tier",
+      "tier"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Premium Network Tier legacy Google Cloud console icon.",
+    "fullname": "Premium Network Tier",
+    "name": "premium-network-tier"
+  },
+  {
+    "path": "icons/legacy/private-connectivity/private_connectivity.svg",
+    "tags": [
+      "connectivity",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "private",
+      "private-connectivity"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Private Connectivity legacy Google Cloud console icon.",
+    "fullname": "Private Connectivity",
+    "name": "private-connectivity"
+  },
+  {
+    "path": "icons/legacy/private-service-connect/private_service_connect.svg",
+    "tags": [
+      "connect",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "private",
+      "private-service-connect",
+      "service"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Private Service Connect legacy Google Cloud console icon.",
+    "fullname": "Private Service Connect",
+    "name": "private-service-connect"
+  },
+  {
+    "path": "icons/legacy/producer-portal/producer_portal.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "portal",
+      "producer",
+      "producer-portal"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Producer Portal legacy Google Cloud console icon.",
+    "fullname": "Producer Portal",
+    "name": "producer-portal"
+  },
+  {
+    "path": "icons/legacy/profiler/profiler.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "profiler"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Profiler legacy Google Cloud console icon.",
+    "fullname": "Profiler",
+    "name": "profiler"
+  },
+  {
+    "path": "icons/legacy/project/project.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "project"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Project legacy Google Cloud console icon.",
+    "fullname": "Project",
+    "name": "project"
+  },
+  {
+    "path": "icons/legacy/pubsub/pubsub.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "messaging",
+      "pub",
+      "pub-sub",
+      "pubsub",
+      "sub"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Pub/Sub legacy Google Cloud console icon.",
+    "fullname": "Pub/Sub",
+    "name": "pubsub"
+  },
+  {
+    "path": "icons/legacy/quantum-engine/quantum_engine.svg",
+    "tags": [
+      "engine",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "quantum",
+      "quantum-engine"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Quantum Engine legacy Google Cloud console icon.",
+    "fullname": "Quantum Engine",
+    "name": "quantum-engine"
+  },
+  {
+    "path": "icons/legacy/quotas/quotas.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "quotas"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Quotas legacy Google Cloud console icon.",
+    "fullname": "Quotas",
+    "name": "quotas"
+  },
+  {
+    "path": "icons/legacy/real-world-insights/real-world_insights.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "insights",
+      "legacy",
+      "real",
+      "real-world-insights",
+      "world"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Real-World Insights legacy Google Cloud console icon.",
+    "fullname": "Real-World Insights",
+    "name": "real-world-insights"
+  },
+  {
+    "path": "icons/legacy/recommendations-ai/recommendations_ai.svg",
+    "tags": [
+      "ai",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "recommendations",
+      "recommendations-ai"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Recommendations AI legacy Google Cloud console icon.",
+    "fullname": "Recommendations AI",
+    "name": "recommendations-ai"
+  },
+  {
+    "path": "icons/legacy/release-notes/release_notes.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "notes",
+      "release",
+      "release-notes"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Release Notes legacy Google Cloud console icon.",
+    "fullname": "Release Notes",
+    "name": "release-notes"
+  },
+  {
+    "path": "icons/legacy/retail-api/retail_api.svg",
+    "tags": [
+      "api",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "retail",
+      "retail-api"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Retail API legacy Google Cloud console icon.",
+    "fullname": "Retail API",
+    "name": "retail-api"
+  },
+  {
+    "path": "icons/legacy/risk-manager/risk_manager.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "manager",
+      "risk",
+      "risk-manager"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Risk Manager legacy Google Cloud console icon.",
+    "fullname": "Risk Manager",
+    "name": "risk-manager"
+  },
+  {
+    "path": "icons/legacy/runtime-config/runtime_config.svg",
+    "tags": [
+      "config",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "runtime",
+      "runtime-config"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Runtime Config legacy Google Cloud console icon.",
+    "fullname": "Runtime Config",
+    "name": "runtime-config"
+  },
+  {
+    "path": "icons/legacy/secret-manager/secret_manager.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "manager",
+      "secret",
+      "secret-manager"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Secret Manager legacy Google Cloud console icon.",
+    "fullname": "Secret Manager",
+    "name": "secret-manager"
+  },
+  {
+    "path": "icons/legacy/security/security.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "security"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Security legacy Google Cloud console icon.",
+    "fullname": "Security",
+    "name": "security"
+  },
+  {
+    "path": "icons/legacy/security-command-center/security_command_center.svg",
+    "tags": [
+      "center",
+      "command",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "security",
+      "security-command-center"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Security Command Center legacy Google Cloud console icon.",
+    "fullname": "Security Command Center",
+    "name": "security-command-center"
+  },
+  {
+    "path": "icons/legacy/security-health-advisor/security_health_advisor.svg",
+    "tags": [
+      "advisor",
+      "gcp",
+      "google-cloud",
+      "health",
+      "legacy",
+      "security",
+      "security-health-advisor"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Security Health Advisor legacy Google Cloud console icon.",
+    "fullname": "Security Health Advisor",
+    "name": "security-health-advisor"
+  },
+  {
+    "path": "icons/legacy/security-key-enforcement/security_key_enforcement.svg",
+    "tags": [
+      "enforcement",
+      "gcp",
+      "google-cloud",
+      "key",
+      "legacy",
+      "security",
+      "security-key-enforcement"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Security Key Enforcement legacy Google Cloud console icon.",
+    "fullname": "Security Key Enforcement",
+    "name": "security-key-enforcement"
+  },
+  {
+    "path": "icons/legacy/service-discovery/service_discovery.svg",
+    "tags": [
+      "discovery",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "service",
+      "service-discovery"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Service Discovery legacy Google Cloud console icon.",
+    "fullname": "Service Discovery",
+    "name": "service-discovery"
+  },
+  {
+    "path": "icons/legacy/speech-to-text/speech-to-text.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "speech",
+      "speech-to-text",
+      "text",
+      "to"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Speech-to-Text legacy Google Cloud console icon.",
+    "fullname": "Speech-to-Text",
+    "name": "speech-to-text"
+  },
+  {
+    "path": "icons/legacy/stackdriver/stackdriver.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "stackdriver"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Stackdriver legacy Google Cloud console icon.",
+    "fullname": "Stackdriver",
+    "name": "stackdriver"
+  },
+  {
+    "path": "icons/legacy/standard-network-tier/standard_network_tier.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "network",
+      "standard",
+      "standard-network-tier",
+      "tier"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Standard Network Tier legacy Google Cloud console icon.",
+    "fullname": "Standard Network Tier",
+    "name": "standard-network-tier"
+  },
+  {
+    "path": "icons/legacy/stream-suite/stream_suite.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "stream",
+      "stream-suite",
+      "suite"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Stream Suite legacy Google Cloud console icon.",
+    "fullname": "Stream Suite",
+    "name": "stream-suite"
+  },
+  {
+    "path": "icons/legacy/support/support.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "support"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Support legacy Google Cloud console icon.",
+    "fullname": "Support",
+    "name": "support"
+  },
+  {
+    "path": "icons/legacy/tensorflow-enterprise/tensorflow_enterprise.svg",
+    "tags": [
+      "enterprise",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "tensorflow",
+      "tensorflow-enterprise"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "TensorFlow Enterprise legacy Google Cloud console icon.",
+    "fullname": "TensorFlow Enterprise",
+    "name": "tensorflow-enterprise"
+  },
+  {
+    "path": "icons/legacy/text-to-speech/text-to-speech.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "speech",
+      "text",
+      "text-to-speech",
+      "to"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Text-to-Speech legacy Google Cloud console icon.",
+    "fullname": "Text-to-Speech",
+    "name": "text-to-speech"
+  },
+  {
+    "path": "icons/legacy/trace/trace.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "trace"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Trace legacy Google Cloud console icon.",
+    "fullname": "Trace",
+    "name": "trace"
+  },
+  {
+    "path": "icons/legacy/traffic-director/traffic_director.svg",
+    "tags": [
+      "director",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "traffic",
+      "traffic-director"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Traffic Director legacy Google Cloud console icon.",
+    "fullname": "Traffic Director",
+    "name": "traffic-director"
+  },
+  {
+    "path": "icons/legacy/transfer/transfer.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "transfer"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Transfer legacy Google Cloud console icon.",
+    "fullname": "Transfer",
+    "name": "transfer"
+  },
+  {
+    "path": "icons/legacy/transfer-appliance/transfer_appliance.svg",
+    "tags": [
+      "appliance",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "transfer",
+      "transfer-appliance"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Transfer Appliance legacy Google Cloud console icon.",
+    "fullname": "Transfer Appliance",
+    "name": "transfer-appliance"
+  },
+  {
+    "path": "icons/legacy/user-preferences/user_preferences.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "preferences",
+      "user",
+      "user-preferences"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "User Preferences legacy Google Cloud console icon.",
+    "fullname": "User Preferences",
+    "name": "user-preferences"
+  },
+  {
+    "path": "icons/legacy/vertexai/vertexai.svg",
+    "tags": [
+      "ai",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "vertex",
+      "vertexai"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Vertex AI legacy Google Cloud console icon.",
+    "fullname": "Vertex AI",
+    "name": "vertexai"
+  },
+  {
+    "path": "icons/legacy/video-intelligence-api/video_intelligence_api.svg",
+    "tags": [
+      "api",
+      "gcp",
+      "google-cloud",
+      "intelligence",
+      "legacy",
+      "video",
+      "video-intelligence-api"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Video Intelligence API legacy Google Cloud console icon.",
+    "fullname": "Video Intelligence API",
+    "name": "video-intelligence-api"
+  },
+  {
+    "path": "icons/legacy/virtual-private-cloud/virtual_private_cloud.svg",
+    "tags": [
+      "cloud",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "networking",
+      "private",
+      "virtual",
+      "virtual-private-cloud",
+      "vpc"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Virtual Private Cloud legacy Google Cloud console icon.",
+    "fullname": "Virtual Private Cloud",
+    "name": "virtual-private-cloud"
+  },
+  {
+    "path": "icons/legacy/visual-inspection/visual_inspection.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "inspection",
+      "legacy",
+      "visual",
+      "visual-inspection"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Visual Inspection legacy Google Cloud console icon.",
+    "fullname": "Visual Inspection",
+    "name": "visual-inspection"
+  },
+  {
+    "path": "icons/legacy/vmware-engine/vmware_engine.svg",
+    "tags": [
+      "engine",
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "vmware",
+      "vmware-engine"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "VMware Engine legacy Google Cloud console icon.",
+    "fullname": "VMware Engine",
+    "name": "vmware-engine"
+  },
+  {
+    "path": "icons/legacy/web-risk/web_risk.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "risk",
+      "web",
+      "web-risk"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Web Risk legacy Google Cloud console icon.",
+    "fullname": "Web Risk",
+    "name": "web-risk"
+  },
+  {
+    "path": "icons/legacy/web-security-scanner/web_security_scanner.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "scanner",
+      "security",
+      "web",
+      "web-security-scanner"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Web Security Scanner legacy Google Cloud console icon.",
+    "fullname": "Web Security Scanner",
+    "name": "web-security-scanner"
+  },
+  {
+    "path": "icons/legacy/workflows/workflows.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "legacy",
+      "workflows"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Workflows legacy Google Cloud console icon.",
+    "fullname": "Workflows",
+    "name": "workflows"
+  },
+  {
+    "path": "icons/legacy/workload-identity-pool/workload_identity_pool.svg",
+    "tags": [
+      "gcp",
+      "google-cloud",
+      "identity",
+      "legacy",
+      "pool",
+      "workload",
+      "workload-identity-pool"
+    ],
+    "category": "legacy",
+    "color": "#4285F4",
+    "description": "Workload Identity Pool legacy Google Cloud console icon.",
+    "fullname": "Workload Identity Pool",
+    "name": "workload-identity-pool"
+  }
+]
