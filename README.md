@@ -1,6 +1,6 @@
 # GCP Icons
 
-![GitHub Pages](https://github.com/jajera/gcp-icons/actions/workflows/pages.yml/badge.svg)
+[![GitHub Pages](https://github.com/jajera/gcp-icons/actions/workflows/deploy.yml/badge.svg)](https://jajera.github.io/gcp-icons/)
 
 A searchable web library for browsing and copying official Google Cloud product
 icons. It includes the current category and core-product sets alongside the
